@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Adam Hill👋</h1>
+<h1 align="center">Hi there – I'm Adam Hill👋</h1>
 
 - 🔭 I’m currently: looking for new opportunities
 
