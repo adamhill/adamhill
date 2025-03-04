@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently: looking for new opportunities
 
-- 💬 Ask me about: the dotnet ecosystem, C#, Xamarin & MAUI, WPF | clojure and LISP | 2D & 3D and computer graphics
+- 💬 Ask me about: the dotnet ecosystem, C#, Xamarin & MAUI, WPF | clojure and LISP | 2D & 3D computer graphics
 
 - 🌱 I’m currently learning AI tools and frameworks: Python | smolagents | roo-code
 
