@@ -1,8 +1,8 @@
-<h1 align="center">Hi there!</h1>
+<h1 align="center">Hi there! <img src="https://camo.githubusercontent.com/d04509037f646eab5c2d6d130574ef059fa8eef92e45a139a827a8d06e9d5042/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" alt="blob wave" style="width:30px; height:30px;"></h1>
 
-I'm [Adam](https://github.com/adamhill) 🦿, a dotnet developer based out of Texas
+I'm [Adam](https://github.com/adamhill) 🦿 - a dotnet developer living in [Lewisville, Texas](https://maps.apple.com/place?auid=12822580968930854471&address=Lewisville%2C+TX%2C+United+States&coordinate=33.0472383%2C-96.9941348&name=Lewisville&lsp=6489)
 
-I love mobile app development and delighting the user. Software is for people, not the other way around.
+I love C# & WPF, mobile app development and delighting the user. Software is for people, not the other way around.
 
 - 🔭 I’m currently: looking for new opportunities
 
