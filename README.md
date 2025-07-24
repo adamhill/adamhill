@@ -6,7 +6,7 @@ I love mobile app development and delighting the user. Software is for people, n
 
 - 🔭 I’m currently: looking for new opportunities
 
-- 💬 Ask me about: the dotnet ecosystem, C#, Xamarin & MAUI, WPF | clojure and LISP | 2D & 3D computer graphics
+- 💬 Ask me about: the dotnet ecosystem, C#, Xamarin & MAUI, WPF | ai | local llms | kilocode & roocode | clojure and LISP | 2D & 3D computer graphics
 
 - 🌱 I’m currently helping write AI tools for IDE's – kilocode & roocode - learning a lot about Typescript and Visual Studio Code Extensions along the way
 
