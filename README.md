@@ -8,7 +8,7 @@
 
 - 🌱 Buffing my Apple mobile app skills learning: Swift, SwiftUI & Vapor
 
-- 📫 How to reach me: [email](mailto:adam.hill@gmail.com) | [Bluesky](https://bsky.app/profile/adam-hill.bsky.social) | [linkedin](https://www.linkedin.com/in/ahill/)
+- 📫 How to reach me: [email](mailto:adam.hill@gmail.com)  |  [Mastodon](https://hachyderm.io/@adamhill)  |  [Bluesky](https://bsky.app/profile/adam-hill.bsky.social)  |  [LinkedIn](https://www.linkedin.com/in/ahill/)  |  [Discord - Kilocode & Roo-Code](http://discord.com/users/333295558573817856)
 <!--  
 <h3>Github Stats</h3>
 <p><img align="center"
