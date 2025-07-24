@@ -1,12 +1,16 @@
-<h1 align="center">Hi there – I'm Adam Hill 🦿 </h1>
+<h1 align="center">Hi there!</h1>
+
+I'm [Adam](https://github.com/adamhill) 🦿, a dotnet developer based out of Texas
+
+I love mobile app development and delighting the user. Software is for people, not the other way around.
 
 - 🔭 I’m currently: looking for new opportunities
 
 - 💬 Ask me about: the dotnet ecosystem, C#, Xamarin & MAUI, WPF | clojure and LISP | 2D & 3D computer graphics
 
-- 🌱 I’m currently learning AI tools and frameworks: Python | smolagents | roo-code
+- 🌱 I’m currently helping write AI tools for IDE's – kilocode & roocode - learning a lot about Typescript and Visual Studio Code Extensions along the way
 
-- 🌱 Buffing my Apple mobile app skills learning: Swift, SwiftUI & Vapor
+- 🌱 Buffing my Apple mobile app skills learning: Swift & SwiftUI to build the most amazing and un-necessary app for the App Store - a digital slide rule! 😁
 
 - 📫 How to reach me: [email](mailto:adam.hill@gmail.com)  |  [Mastodon](https://hachyderm.io/@adamhill)  |  [Bluesky](https://bsky.app/profile/adam-hill.bsky.social)  |  [LinkedIn](https://www.linkedin.com/in/ahill/)  |  [Discord - Kilocode & Roo-Code](http://discord.com/users/333295558573817856)
 <!--  
@@ -34,7 +38,7 @@
   </p>
 -->
   
-[adamhill](https://github.com/adamhill)
+
 <!--
 **adamhill/adamhill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
