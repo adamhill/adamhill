@@ -9,7 +9,7 @@
 - 🌱 Buffing my Apple mobile app skills learning: Swift, SwiftUI & Vapor
 
 - 📫 How to reach me: [email](mailto:adam.hill@gmail.com) | [Bluesky](https://bsky.app/profile/adam-hill.bsky.social) | [linkedin](https://www.linkedin.com/in/ahill/)
-  
+<!--  
 <h3>Github Stats</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adamhill&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
@@ -32,6 +32,7 @@
 <p align="right"> <h4>Profile Views </h4> <img src="https://komarev.com/ghpvc/?username=adamhill&label=Profile%20views&color=0e75b6&style=flat"
     alt="adamhill" /> 
   </p>
+-->
   
 [adamhill](https://github.com/adamhill)
 <!--
